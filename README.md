@@ -50,6 +50,8 @@ Awesome list of NumPy
 - [Numba](https://numba.pydata.org/) - JIT compiler that translates a subset of NumPy.
 
 ### AI/ML
+* [ACLAS Neuro-Edu SDK](https://github.com/aclascollege/neuro-edu) - Autonomous cognitive simulation framework for AI-powered education, modeling human knowledge acquisition with neural kernels and thermodynamic entropy analysis.
+
 
 - [JAX](https://github.com/google/jax) - Extends NumPy by ML purpose, [Autograd](https://github.com/hips/autograd) and [XLA](https://www.tensorflow.org/xla) project.
 - [AutoGrad](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
